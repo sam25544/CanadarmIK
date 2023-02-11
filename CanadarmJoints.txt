@@ -1,0 +1,8 @@
+SY to SP 215 mm
+SP to EP 3675 mm
+EP to WP 3665 mm
+WP to WY 365 mm
+WY to WR 205 mm
+WR to EE 610 mm
+
+(exclude wrist roll joint) WY to EE 815 mm
